@@ -1,6 +1,7 @@
 import Link from "next/link"
 import Menu from "../Menu"
 import MobileMenu from "../MobileMenu"
+
 export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSidebar, handlePopup, handleSidebar }) {
     return (
 
@@ -12,7 +13,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                 <div className="main-menu__left">
                   <div className="main-menu__logo">
                     <Link href="/">
-                      <img src="./assets/images/allimgs/Delco Logo.png" alt=""  style={{height:'70px'}}/>
+                      <img src=".\assets\images\allimgs\Data Centre (1).png" alt=""  style={{height:'40px'}}/>
                     </Link>
                   </div>
                   <div className="main-menu__main-menu-box">
@@ -56,7 +57,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                 <div className="main-menu__left">
                   <div className="main-menu__logo">
                     <Link href="/">
-                      <img src="./assets/images/allimgs/Delco Logo.png" alt=""  style={{height:'70px'}}/>
+                      <img src=".\assets\images\allimgs\Data Centre (1).png" alt=""  style={{height:'40px'}}/>
                     </Link>
                   </div>
                   <div className="main-menu__main-menu-box">
