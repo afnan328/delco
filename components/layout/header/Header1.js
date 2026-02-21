@@ -36,7 +36,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                       </div>
                     </div> */}
                     <div className="main-menu__btn-box">
-                      <Link href="/contact" className="thm-btn main-menu__btn">
+                      <Link href="/contact" className="thm-btn main-menu__btn" style={{backgroundColor:'#02377D'}}  >
                        Contact Us
                         <span />
                       </Link>
@@ -48,7 +48,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
           </div>
         </nav>
 
-        <div className={`stricky-header stricked-menu main-menu ${scroll ? "stricky-fixed" : ""}`}>
+        <div className={`stricky-header stricked-menu main-menu ${scroll ? "stricky-fixed" : ""}`} >
         <div className="sticky-header__content" />
         <nav className="main-menu">
           <div className="main-menu__wrapper">
@@ -82,7 +82,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                       </div> */}
                     </div>
                     <div className="main-menu__btn-box">
-                      <Link href="/contact" className="thm-btn main-menu__btn">
+                      <Link href="/contact" className="thm-btn main-menu__btn" style={{backgroundColor:'#02377D'}}>
                       Contact Us
                         <span />
                       </Link>

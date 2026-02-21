@@ -21,7 +21,7 @@ export default function Footer1() {
                         <div className="footer-widget__logo">
                         <Link href="/">
                             <img
-                            src="./assets/images/allimgs/Delco Logo White.png" alt=""  style={{height:'70px'}}/>
+                            src=".\assets\images\allimgs\Logo White (1).png" alt=""  style={{height:'70px'}}/>
                         </Link>
                         </div>
                         <p className="footer-widget__about-text">
@@ -31,7 +31,7 @@ export default function Footer1() {
                         <ul className="footer-widget__about-contact list-unstyled">
                         <li>
                             <div className="icon">
-                            <span className="icon-envolop email-icon"   style={{color:'#F39F1B'}}/>
+                            <span className="icon-envolop email-icon"   style={{color:'#8C5EF6 '}}/>
                             </div>
                             <p>
                             <Link href="mailto:info@delcoarabia.com">
@@ -48,7 +48,7 @@ export default function Footer1() {
                         </li> */}
                         <li>
                             <div className="icon">
-                            <span className="icon-call phone-call"  style={{color:'#F39F1B'}}/>
+                            <span className="icon-call phone-call"  style={{color:'#8C5EF6 '}}/>
                             </div>
                             <p>
                             <Link href="tel:966 55 592 3198 
@@ -100,41 +100,41 @@ export default function Footer1() {
                         <ul className="footer-widget__services-list list-unstyled">
                         <li>
                             <Link href="/services">
-                            <span className="icon-angle-left"   style={{color:'#F39F1B'}}/>
+                            <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
                             Manpower Supply General
                             </Link>
                         </li>
                         <li>
                             <Link href="/services">
-                            <span className="icon-angle-left"   style={{color:'#F39F1B'}}/>
+                            <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
                             Specialized Crew Supply
 
                             </Link>
                         </li>
                         <li>
                             <Link href="/services">
-                            <span className="icon-angle-left"   style={{color:'#F39F1B'}}/>
+                            <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
                             Specialized Equipment Supply
 
                             </Link>
                         </li>
                         <li>
                             <Link href="/services">
-                            <span className="icon-angle-left"   style={{color:'#F39F1B'}}/>
+                            <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
                             Equipment Rental Services
 
                             </Link>
                         </li>
                         <li>
                             <Link href="/services">
-                            <span className="icon-angle-left"   style={{color:'#F39F1B'}}/>
+                            <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
                             Vehicle Rental Services
 
                             </Link>
                         </li>
                         <li>
                             <Link href="/services">
-                            <span className="icon-angle-left"   style={{color:'#F39F1B'}}/>
+                            <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
                             Specialized In Oil & Gas, Marine, Industrial Material And Mechanical Fabrication Works
                             </Link>
                         </li>
@@ -187,7 +187,7 @@ export default function Footer1() {
                 <div className="site-footer__bottom-inner">
                 <p className="site-footer__bottom-text">
                     © Delco Arabia 2025 |Site Created By
-                    <a href="https://mscreation.tech/" style={{color:"#F39F1B"}}> Ms Creation</a>
+                    <a href="https://mscreation.tech/" style={{color:"#8C5EF6 "}}> Ms Creation</a>
                 </p>
                 <div className="footer-widget-two__social">
                             <Link href="#">

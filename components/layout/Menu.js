@@ -30,13 +30,13 @@ export default function Menu() {
                 </ul>
             </li> */}
             <li>
-                <Link href="/">Home</Link>
+                <Link href="/" style={{color:'#02377D '}}>Home</Link>
             </li>
             <li>
-                <Link href="/about">About</Link>
+                <Link href="/about" style={{color:'#02377D '}}>About</Link>
             </li>
             <li>
-                <Link href="/services">services</Link>
+                <Link href="/services" style={{color:'#02377D '}}>services</Link>
             </li>
             {/* <li className="dropdown">
                 <Link href="#">Pages</Link>
@@ -110,7 +110,7 @@ export default function Menu() {
                 </ul>
             </li> */}
             <li>
-                <Link href="/contact">Contact</Link>
+                <Link href="/contact" style={{color:'#02377D '}}>Contact</Link>
             </li>
         </ul>
         </div>
