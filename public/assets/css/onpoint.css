@@ -4363,6 +4363,17 @@ select.selectmenu.wide {
   display: block;
 }
 
+/* ===== FIX FOOTER LINK COLOR ===== */
+
+.site-footer a {
+  color: #ffffff;
+  transition: 0.3s ease;
+}
+
+.site-footer a:hover {
+  color: #8C5EF6 !important;
+}
+
 .footer-widget__about {
   position: relative;
   display: block;
@@ -4422,6 +4433,7 @@ select.selectmenu.wide {
   -webkit-transform: scale(1.4);
   animation: none;
   transform: scale(1.4);
+  
 }
 
 .footer-widget__about-contact li p {
@@ -4473,6 +4485,7 @@ select.selectmenu.wide {
 .footer-widget__company-list {
   position: relative;
   display: block;
+  color: #8C5EF6;
 }
 
 .footer-widget__services-list li {
