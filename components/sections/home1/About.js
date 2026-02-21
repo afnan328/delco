@@ -56,7 +56,7 @@ export default function About() {
                         </ul>
                         </div>
                         <div className="about-one__btn-box">
-                        <Link href="/about" className="thm-btn about-one__btn">
+                        <Link href="/about" className="thm-btn about-one__btn" >
                             Read more
                             <span />
                         </Link>

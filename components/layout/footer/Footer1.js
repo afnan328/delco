@@ -15,6 +15,7 @@ export default function Footer1() {
                     <div
                     className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
                     data-wow-delay="100ms"
+                    
                     >
                     <div className="footer-widget__column footer-widget__about">
                         <div className="footer-widget__logo">

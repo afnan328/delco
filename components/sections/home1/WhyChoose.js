@@ -10,7 +10,7 @@ export default function WhyChoose() {
                     <div className="why-choose-one__left">
                         <div className="section-title text-left">
                         <div className="section-title__tagline-box">
-                            <span className="section-title__tagline">Why Choose Us</span>
+                            <span className="section-title__tagline" style={{color:'#02377D '}}>Why Choose Us</span>
                         </div>
                         <h2 className="section-title__title">
                         An unwavering commitment to excellence & innovation
@@ -23,8 +23,9 @@ export default function WhyChoose() {
                         <p className="why-choose-one__text">
                         We rise up to their expectation by providing them the required equipment in record time, no matter what type of equipment the customer requires.We have a professional Marketing Team comprising of a Marketing Manager and Business Development Executive{" "}
                         </p>
-                        <div className="why-choose-one__btn-box">
-                        <Link href="/about" className="thm-btn why-choose-one__btn">
+                        <div className="why-choose-one__btn-box"  >
+                        <Link href="/about" className="thm-btn why-choose-one__btn" style={{ backgroundColor: "#02377D", color: "#ffffff" }}>
+                        
                             Read more
                             <span />
                         </Link>

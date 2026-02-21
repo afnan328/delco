@@ -2593,6 +2593,7 @@ a.scroll-to-target.scroll-to-top {
   border-radius: 50%;
   transform: translateX(-50%);
   z-index: 1;
+  
 }
 
 .services-one__icon::before {
@@ -2681,6 +2682,8 @@ a.scroll-to-target.scroll-to-top {
   position: relative;
   display: block;
   margin-top: 28px;
+  
+ 
 }
 
 .why-choose-one__right {
@@ -2877,6 +2880,7 @@ a.scroll-to-target.scroll-to-top {
   position: relative;
   display: block;
   margin-top: 15px;
+  
 }
 
 .about-one__btn {
@@ -4327,7 +4331,7 @@ select.selectmenu.wide {
 .site-footer {
   position: relative;
   display: block;
-  background-color: var(--onpoint-black);
+  background-color: #02377D;
   margin-top: -124px;
   z-index: 1;
 }
@@ -4359,6 +4363,7 @@ select.selectmenu.wide {
   position: relative;
   display: block;
   margin-right: -5px;
+  
 }
 
 .footer-widget__logo {
