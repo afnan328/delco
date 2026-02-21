@@ -204,7 +204,8 @@ export default function ServiceSlider() {
                     </div>
                     <h3 className="services-one__title">
                         <Link href="/quick-move-logistics">
-                        Efficiency at its best, with our logistics services
+                        Efficiency at its best, with our logist
+                        ics services
                         </Link>
                     </h3>
                     <div className="services-one__btn-box">

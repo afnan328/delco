@@ -59,7 +59,7 @@ export default function Blog() {
                             </h3>
                         </div>
                         <div className="blog-two__btn-box">
-                            <Link href="/services" className="thm-btn blog-two__btn">
+                            <Link href="/services" className="thm-btn blog-two__btn" >
                             Read more
                             <span />
                             </Link>

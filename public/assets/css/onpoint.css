@@ -35,7 +35,7 @@
   --onpoint-gray-rgb: 120, 120, 120;
   --onpoint-white: #ffffff;
   --onpoint-white-rgb: 255, 255, 255;
-  --onpoint-base: #030C4D;
+  --onpoint-base: #02377D;
   --onpoint-base-rgb: 193, 20, 37;
   --onpoint-black: #0F1B24;
   --onpoint-black-rgb: 15, 27, 36;
@@ -5487,6 +5487,7 @@ select.selectmenu.wide {
 .blog-two__btn>span {
   background-color: var(--onpoint-base);
   color: var(--onpoint-white);
+  
 }
 
 .blog-two__date {
