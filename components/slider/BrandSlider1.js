@@ -54,66 +54,66 @@ export default function BrandSlider1() {
             <Swiper {...swiperOptions} className="thm-swiper__slider swiper-container">
                 <div className="swiper-wrapper">
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/1.jpg" alt="" />
+                        <img src=".\assets\images\allimgs\clients\1.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/2.jpg" alt="" />
+                        <img src=".\assets\images\allimgs\clients\2.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/3.jpg" alt="" />
+                        <img src=".\assets\images\allimgs\clients\3.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/4.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/4.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/5.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/5.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/6.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/6.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/7.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/7.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/8.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/8.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/9.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/9.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/10.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/10.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/11.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/11.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/12.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/12.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/13.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/13.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/14.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/14.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/15.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/15.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/16.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/16.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/17.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/17.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/18.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/18.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/19.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/19.webp" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
-                        <img src="./assets/images/allimgs/clients/20.jpg" alt="" />
+                        <img src="./assets/images/allimgs/clients/20.webp" alt="" />
                     </SwiperSlide>
-                    <SwiperSlide className="swiper-slide">
+                    {/* <SwiperSlide className="swiper-slide">
                         <img src="./assets/images/allimgs/clients/21.jpg" alt="" />
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
@@ -208,7 +208,7 @@ export default function BrandSlider1() {
                     </SwiperSlide>
                     <SwiperSlide className="swiper-slide">
                         <img src="./assets/images/allimgs/clients/53.jpg" alt="" />
-                    </SwiperSlide>
+                    </SwiperSlide> */}
                   
                   
                 </div>

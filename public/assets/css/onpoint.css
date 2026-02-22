@@ -2693,16 +2693,20 @@ a.scroll-to-target.scroll-to-top {
 .why-choose-one__right {
   position: relative;
   display: block;
+ 
 }
 
 .why-choose-one__img {
   position: relative;
   display: block;
+  margin-top: 60px;
+  
 }
 
 .why-choose-one__img img {
   width: 100%;
   border-radius: 20px;
+ 
 }
 
 .why-choose-one__delivery-box {
@@ -2732,6 +2736,7 @@ a.scroll-to-target.scroll-to-top {
   background-color: var(--onpoint-base);
   border-radius: 22px;
   z-index: -1;
+ 
 }
 
 .why-choose-one__delivery-box .icon {
@@ -2758,7 +2763,17 @@ a.scroll-to-target.scroll-to-top {
   font-family: var(--onpoint-font-two);
   color: var(--onpoint-white);
 }
+/* Remove default ul dots */
+.why-choose-one ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
 
+/* If theme still forces dots */
+.why-choose-one ul li {
+  list-style: none !important;
+}
 /*--------------------------------------------------------------
 # Project One
 --------------------------------------------------------------*/
