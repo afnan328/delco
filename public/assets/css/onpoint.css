@@ -4219,7 +4219,7 @@ select.selectmenu.wide {
   right: 0;
   bottom: 0;
   border-radius: 20px;
-  background: linear-gradient(89.46deg, #F39F1B 49.9%, rgba(91, 9, 17, 0) 99.53%);
+  /* background: linear-gradient(89.46deg, #F39F1B 49.9%, rgba(91, 9, 17, 0) 99.53%); */
   z-index: 1;
 }
 
