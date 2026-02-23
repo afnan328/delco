@@ -134,8 +134,8 @@ export default function Footer2() {
                                 <span className="icon-envolop email-icon" />
                             </div>
                             <p>
-                                <Link href="mailto:debra.holt@example.com,">
-                                debra.holt@example.com,
+                                <Link href="mailto:info@alazharalarabia.com,">
+                                info@alazharalarabia.com,
                                 </Link>
                             </p>
                             </li>

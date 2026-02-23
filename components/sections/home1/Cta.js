@@ -9,7 +9,7 @@ export default function Cta() {
                     <div
                     className="cta-one__bg-img"
                     style={{
-                        backgroundImage: "url(./assets/images/allimgs/contactpage/footer.webp)"
+                        backgroundImage: "url(./assets/images/allimgs/contactpage/Contactbanner.webp)"
                     }}
                     />
                     <div className="cta-one__content-box">
@@ -30,12 +30,12 @@ export default function Cta() {
                         <div className="content">
                         <p>Need help?</p>
                         <h3>
-                            <a href="tel:966 55 592 3198 
-">+966 55 592 3198 
+                            <a href="tel:+966 13 363 3369 
+">+966 13 363 3369
 </a><br/>
-                            <a href="tel:966 58 176 5070  
-">+966 58 176 5070 
-</a>
+                            {/* <a href="tel:966 58 176 5070  
+">+966 13 363 3369 
+</a> */}
                         </h3>
                         </div>
                     </div>

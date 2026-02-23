@@ -34,9 +34,8 @@ export default function Footer1() {
                             <span className="icon-envolop email-icon"   style={{color:'#8C5EF6 '}}/>
                             </div>
                             <p>
-                            <Link href="mailto:info@delcoarabia.com">
-                            info@delcoarabia.com
-
+                            <Link href="mailto:info@alazharalarabia.com">
+                            info@alazharalarabia.com
                             </Link>
                             </p>
                         </li>
@@ -51,14 +50,14 @@ export default function Footer1() {
                             <span className="icon-call phone-call"  style={{color:'#8C5EF6 '}}/>
                             </div>
                             <p>
-                            <Link href="tel:966 55 592 3198 
-">+966 55 592 3198 
+                            <Link href="tel:+966 13 363 3369
+">+966 13 363 3369
 
                             </Link><br/>
-                            <Link href="tel:966 58 176 5070 
+                            {/* <Link href="tel:966 58 176 5070 
 ">+966 58 176 5070 
 
-                            </Link>
+                            </Link> */}
                             </p>
                         </li>
                         </ul>
@@ -101,43 +100,45 @@ export default function Footer1() {
                         <li>
                             <Link href="/services">
                             <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
-                            Manpower Supply General
-                            </Link>
-                        </li>
-                        <li>
-                            <Link href="/services">
-                            <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
-                            Specialized Crew Supply
+                            Physical Security Systems
 
                             </Link>
                         </li>
                         <li>
                             <Link href="/services">
                             <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
-                            Specialized Equipment Supply
+                            Data Center Infrastructure
+
 
                             </Link>
                         </li>
                         <li>
                             <Link href="/services">
                             <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
-                            Equipment Rental Services
+                           Low Current & ELV Systems
+
 
                             </Link>
                         </li>
                         <li>
+                            <Link href="/services">
+                            <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
+                            System Integration & Operations Support
+                            </Link>
+                        </li>
+                        {/* <li>
                             <Link href="/services">
                             <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
                             Vehicle Rental Services
 
                             </Link>
-                        </li>
-                        <li>
+                        </li> */}
+                        {/* <li>
                             <Link href="/services">
                             <span className="icon-angle-left"   style={{color:'#8C5EF6 '}}/>
                             Specialized In Oil & Gas, Marine, Industrial Material And Mechanical Fabrication Works
                             </Link>
-                        </li>
+                        </li> */}
                    
                       
                        
@@ -186,7 +187,7 @@ export default function Footer1() {
             <div className="container">
                 <div className="site-footer__bottom-inner">
                 <p className="site-footer__bottom-text">
-                    © Delco Arabia 2025 |Site Created By
+                    © AL-AZHAR AL-ARABIA |Site Created By
                     <a href="https://mscreation.tech/" style={{color:"#8C5EF6 "}}> Ms Creation</a>
                 </p>
                 <div className="footer-widget-two__social">
