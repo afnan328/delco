@@ -17,7 +17,7 @@ export default function Brand() {
 
     <div className="project-details__img-box" style={{marginTop:'30px',margin:'30px',marginBottom:'-30px'}}>
                 <div className="row">
-                <h2 class="section-title__title" style={{textAlign:'center',margin:'20px'}}>Our  Projects  </h2>
+                {/* <h2 class="section-title__title" style={{textAlign:'center',margin:'20px'}}>Our  Projects  </h2> */}
                     {/* <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
@@ -49,7 +49,7 @@ export default function Brand() {
                     </div> */}
 
 
-                     <div className="col-xl-4">
+                     {/* <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
                         src="./assets/images/allimgs/new/1.webp"
@@ -57,9 +57,9 @@ export default function Brand() {
                         />
                         
                     </div>
-                    </div>
+                    </div> */}
 
-                     <div className="col-xl-4">
+                     {/* <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
                         src="./assets/images/allimgs/new/2.webp"
@@ -67,9 +67,9 @@ export default function Brand() {
                         />
                         
                     </div>
-                    </div>
+                    </div> */}
 
-                     <div className="col-xl-4">
+                     {/* <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
                         src="./assets/images/allimgs/new/3.webp"
@@ -77,9 +77,9 @@ export default function Brand() {
                         />
                         
                     </div>
-                    </div>
+                    </div> */}
 
-                     <div className="col-xl-4">
+                     {/* <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
                         src="./assets/images/allimgs/new/4.webp"
@@ -87,9 +87,9 @@ export default function Brand() {
                         />
                         
                     </div>
-                    </div>
+                    </div> */}
 
-                     <div className="col-xl-4">
+                     {/* <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
                         src="./assets/images/allimgs/new/5.webp"
@@ -97,9 +97,9 @@ export default function Brand() {
                         />
                         
                     </div>
-                    </div>
+                    </div> */}
 
-                     <div className="col-xl-4">
+                     {/* <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
                         src="./assets/images/allimgs/new/6.webp"
@@ -107,9 +107,9 @@ export default function Brand() {
                         />
                         
                     </div>
-                    </div>
+                    </div> */}
 
-                     <div className="col-xl-4">
+                     {/* <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
                         src="./assets/images/allimgs/new/7.webp"
@@ -117,9 +117,9 @@ export default function Brand() {
                         />
                         
                     </div>
-                    </div>
+                    </div> */}
 
-                     <div className="col-xl-4">
+                     {/* <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
                         src="./assets/images/allimgs/new/8.webp"
@@ -127,9 +127,9 @@ export default function Brand() {
                         />
                         
                     </div>
-                    </div>
+                    </div> */}
 
-                     <div className="col-xl-4">
+                     {/* <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
                         src="./assets/images/allimgs/new/9.webp"
@@ -137,7 +137,7 @@ export default function Brand() {
                         />
                         
                     </div>
-                    </div>
+                    </div> */}
 
                     
                    
