@@ -22,12 +22,12 @@ export default function Home() {
                 <div className="col-xl-12">
             <div className="project-details__right">
             <h3 className="section-title__title" style={{color:'#030C4D',textAlign:'center'}}>
-            SPECIALIZED IN OIL & GAS, MARINE, <span style={{color:'#F39F1B',textAlign:'justify',textJustify:'inter-word'}}>INDUSTRIAL MATERIAL AND MECHANICAL FABRICATION WORKS</span>  
+            SPECIALIZED IN OIL & GAS, MARINE, <span style={{color:'#02377D',textAlign:'justify',textJustify:'inter-word'}}>INDUSTRIAL MATERIAL AND MECHANICAL FABRICATION WORKS</span>  
                 </h3>
            
                 <div className="project-details__img">
                 <img
-                    src="./assets/images/allimgs/servicepage/6-1.webp"
+                    src="./assets/images/allimgs/service.webp"
                     alt=""
                 />
                 </div>
@@ -1607,7 +1607,7 @@ Sockets
             <div className="col-xl-12">
             <div className="project-details__right">
             <h2 className="section-title__title" style={{color:'#030C4D',marginBottom:'20px'}}>
-         Manpower <span style={{color:'#F39F1B'}}>Supply General</span>  
+         Manpower <span style={{color:'#02377D'}}>Supply General</span>  
 
                 </h2>
                 <div className="project-details__img">
@@ -2006,7 +2006,7 @@ Sockets
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
                         <h2 className="section-title__title" style={{color:'#030C4D'}}>
-                        Specialized <span style={{color:'#F39F1B'}}>Crew Supply</span> 
+                        Specialized <span style={{color:'#02377D'}}>Crew Supply</span> 
 
                         </h2>
                         </div>
@@ -2069,7 +2069,7 @@ Sockets
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
                         <h2 className="section-title__title" style={{color:'#030C4D',marginTop:'20px'}}>
-                        Specialized <span style={{color:'#F39F1B'}}> Equipment Supply</span>  
+                        Specialized <span style={{color:'#02377D'}}> Equipment Supply</span>  
 
                         </h2>
                         </div>
@@ -2164,7 +2164,7 @@ Sockets
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
                         <h2 className="section-title__title" style={{color:'#030C4D',marginTop:'-30px'}}>
-                        Equipment <span style={{color:'#F39F1B'}}>Rental Services</span>  
+                        Equipment <span style={{color:'#02377D'}}>Rental Services</span>  
 
 
                         </h2>
@@ -2293,7 +2293,7 @@ Sockets
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
                         <h2 className="section-title__title" style={{color:'#030C4D',marginTop:'30px'}}>
-                        Vehicle <span style={{color:'#F39F1B'}}>Rental Services</span>  
+                        Vehicle <span style={{color:'#02377D'}}>Rental Services</span>  
 
                         </h2>
                         </div>

@@ -25,12 +25,14 @@
 @import url('../vendors/onpoint-icons/style.css');
 @import url('../vendors/swiper/swiper-bundle.min.css');
 @import url('../vendors/swiper/swiper.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 /*--------------------------------------------------------------
 # Common
 --------------------------------------------------------------*/
 :root {
-  /* --onpoint-font: "Jost", sans-serif;
-  --onpoint-font-two: "Rajdhani", sans-serif; */
+  --onpoint-font:  "Poppins", sans-serif !important;
+  --onpoint-font-two: "Bebas Neue", sans-serif !important;
   --onpoint-gray: #787878;
   --onpoint-gray-rgb: 120, 120, 120;
   --onpoint-white: #ffffff;
@@ -253,7 +255,7 @@ ul {
   padding: 5px 24px 5px;
   padding-right: 4px;
   letter-spacing: 1.6px;
-  border-radius: 30px;
+  border-radius: 10px;
   border: 1px solid var(--onpoint-bdr-color);
   font-family: var(--onpoint-font-two);
   background-color: var(--onpoint-base);
@@ -4777,7 +4779,7 @@ select.selectmenu.wide {
   right: 0;
   bottom: 166px;
   width: calc((100% - 90px) / 2);
-  background-size: cover;
+  background-size: cover; 
   background-position: top right;
   background-repeat: no-repeat;
   border-top-left-radius: 20px;

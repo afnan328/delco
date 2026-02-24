@@ -3,9 +3,9 @@ import Link from "next/link";
 export default function Breadcrumb({ breadcrumbTitle, page }) {
     // Define background images for different pages
     const backgroundImages = {
-        about: "./assets/images/allimgs/banner/ABOUT.webp",
-        contact: "./assets/images/allimgs/contactpage/Contactbanner.webp",
-        service: "./assets/images/allimgs/banner/services.jpg",
+        about: "./assets/images/allimgs/banner/Aboutbanner.webp",
+        contact: "./assets/images/allimgs/banner/Aboutbanner.webp",
+        service: "./assets/images/allimgs/banner/Aboutbanner.webp",
     };
 
     return (

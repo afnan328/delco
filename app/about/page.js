@@ -28,7 +28,7 @@ export default function Home() {
                                     <span className="section-title__tagline">About Us</span>
                                 </div>
                                 <h2 className="section-title__title">
-                              <span style={{color:'#F39F1B'}}> AL-AZHAR AL-ARABIA </span>   is an engineering and technology company in Saudi Arabia.
+                              <span style={{color:'#02377d'}}> AL-AZHAR AL-ARABIA </span>   is an engineering and technology company in Saudi Arabia.
 
                                 </h2>
                                 </div>

@@ -30,13 +30,13 @@ export default function Menu() {
                 </ul>
             </li> */}
             <li>
-                <Link href="/" style={{color:'#02377D '}}>Home</Link>
+                <Link href="/" style={{color:'#02377D ',fontFamily:"Poppins"}}>Home</Link>
             </li>
             <li>
-                <Link href="/about" style={{color:'#02377D '}}>About</Link>
+                <Link href="/about" style={{color:'#02377D ',fontFamily:"Poppins"}}>About</Link>
             </li>
             <li>
-                <Link href="/services" style={{color:'#02377D '}}>services</Link>
+                <Link href="/services" style={{color:'#02377D ',fontFamily:"Poppins"}}>services</Link>
             </li>
             {/* <li className="dropdown">
                 <Link href="#">Pages</Link>
@@ -110,7 +110,7 @@ export default function Menu() {
                 </ul>
             </li> */}
             <li>
-                <Link href="/contact" style={{color:'#02377D '}}>Contact</Link>
+                <Link href="/contact" style={{color:'#02377D ',fontFamily:"Poppins"}}>Contact</Link>
             </li>
         </ul>
         </div>

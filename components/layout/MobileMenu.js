@@ -37,7 +37,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     </span>
                     <div className="logo-box">
                     <Link href="/" aria-label="logo image">
-                        <img src="./assets/images/allimgs/Delco Logo White.png" width={150} alt="" />
+                        <img src="./assets/images/allimgs/al-azharwhite.png" width={150} alt="" />
                     </Link>
                     </div>
                     {/* /.logo-box */}
@@ -117,23 +117,23 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     <ul className="mobile-nav__contact list-unstyled">
                     <li>
                         <i className="fa fa-envelope" />
-                        <a href="mailto:info@delcoarabia.com">info@delcoarabia.com
+                        <a href="mailto:info@alazharalarabia.com">info@alazharalarabia.com
                         </a>
                     </li>
                     <li>
                         <i className="fa fa-phone-alt" />
-                        <a href="tel:966 55 592 3198 
-">+966 55 592 3198 
+                        <a href="tel:966 13 363 3369 
+">+966 13 363 3369
 
                         </a>
                     </li>
-                    <li>
+                    {/* <li>
                         <i className="fa fa-phone-alt" />
                         <a href="tel:966 58 176 5070  
 ">+966 58 176 5070  
 
                         </a>
-                    </li>
+                    </li> */}
                     </ul>
                     {/* /.mobile-nav__contact */}
                     <div className="mobile-nav__top">

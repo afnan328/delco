@@ -6,14 +6,18 @@ import "swiper/css/pagination"
 // import 'owl.carousel'
 import 'swiper/css/free-mode';
 import { jost, rajdhani } from '@/lib/font'
+
+
+
 export const metadata = {
-    title: 'Delco Arabia',
-    description: 'Delco Arabia',
+    title: 'Al-Azhar Al-Arabia',
+    description: 'Al-Azhar Al-Arabia ',
 }
 
 export default function RootLayout({ children }) {
     return (
         <html lang="en" className={`${jost.variable} ${rajdhani.variable}`}>
+            
             <body>{children}</body>
         </html>
     )

@@ -21,7 +21,7 @@ export default function Footer1() {
                         <div className="footer-widget__logo">
                         <Link href="/">
                             <img
-                            src=".\assets\images\allimgs\Logo White (1).png" alt=""  style={{height:'70px'}}/>
+                            src="./assets/images/allimgs/al-azharwhite.png" alt=""  style={{height:'70px'}}/>
                         </Link>
                         </div>
                         <p className="footer-widget__about-text">

@@ -36,13 +36,14 @@ export default function ServicesTwo() {
                         {/* </Link> */}
                         </h3>
                         <p className="services-two__text">
-                        To be an Industry leader in Oil & Gas field in the region, to be an nnovative and sustainable partner
+                        To be the trusted partner in secure Critical infrastructure and Data Center solutions.
+                        Our services are delivered to mission-critical environments across the Kingdom of Saudi Arabia, where reliability, compliance, security, and uninterrupted operations are essential.
                         </p>
                     </div>
                     </div>
                     {/*Services Two Single End*/}
                     {/*Services Two Single Start*/}
-                    <div className="col-xl-6 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                    {/* <div className="col-xl-6 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                     <div className="services-two__single">
                         <div className="services-two__icon">
                         <span >
@@ -50,17 +51,14 @@ export default function ServicesTwo() {
                         </span>
                         </div>
                         <h3 className="services-two__title">
-                        {/* <Link href="/speedy-dispatch"> */}
                         Our HSEQ Policy
-                        {/* </Link> */}
                         </h3>
                         <p className="services-two__text">
                         Committed to top-tier HSE management with zero tolerance, DACO ensures stakeholder protection while delivering superior services that exceed client expectations.
                         </p>
                     </div>
-                    </div>
-                    {/*Services Two Single End*/}
-                    {/*Services Two Single Start*/}
+                    </div> */}
+                  
                     <div
                     className="col-xl-6 col-lg-4 wow fadeInRight"
                     data-wow-delay="300ms"
@@ -72,25 +70,17 @@ export default function ServicesTwo() {
                         </span>
                         </div>
                         <h3 className="services-two__title">
-                        {/* <Link href="/quick-move-logistics"> */}
                             {" "}
                             Mission
-                        {/* </Link> */}
                         </h3>
                         <p className="services-two__text">
-                        To deliver world class sustainable, integrated and Quality products & ervices
+                       Our mission is to deliver end-to-end, secure, and resilient infrastructure and data center solutions through engineering excellence, strict compliance, and disciplined execution-guided by integrity, reliability, and a strong commitment to international standards and localization.
                         </p>
-                        <p className="services-two__text">
-                        Striving for Excellence in Technical enhancement and Daily operation
-
-                        </p>
-                        <p className="services-two__text">
-                        Safe and Quality working environment to our employees, 100% customer satisfaction and stakeholder's happiness
-                        </p>
+                       
                     </div>
                     </div>
 
-                    <div
+                    {/* <div
                     className="col-xl-6 col-lg-4 wow fadeInRight"
                     data-wow-delay="300ms"
                     >
@@ -101,10 +91,8 @@ export default function ServicesTwo() {
                         </span>
                         </div>
                         <h3 className="services-two__title">
-                        {/* <Link href="/quick-move-logistics"> */}
                             {" "}
                             Our Quality Policy
-                        {/* </Link> */}
                         </h3>
                         <p className="services-two__text">
                         It is explicit policy of our company to provide service to customer and meet
@@ -113,12 +101,10 @@ quality. We have also a quality trend to monitor our quality effectiveness to
 ensure the company function to determined company procedure and guidelines
                         </p>
                     </div>
-                    </div>
-                    {/*Services Two Single End*/}
+                    </div> */}
                 </div>
                 </div>
             </section>
-            {/*Services Two End*/}
         </>
 
 
