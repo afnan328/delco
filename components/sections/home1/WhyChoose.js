@@ -1,3 +1,4 @@
+import { Bebas_Neue } from "next/font/google"
 import Link from "next/link"
 export default function WhyChoose() {
     return (
@@ -10,9 +11,9 @@ export default function WhyChoose() {
                     <div className="why-choose-one__left">
                         <div className="section-title text-left">
                         <div className="section-title__tagline-box">
-                            <span className="section-title__tagline" style={{color:'#02377D '}}>Company Overview</span>
+                            <span className="section-title__tagline" style={{color:'#02377D ',font:'Gilroy'}}>Company Overview</span>
                         </div>
-                        <h2 className="section-title__title">
+                        <h2 className="section-title__title" style={{font:'Bebas Nue'}}>
                         Powering Data - Protecting Critical Infrastructure
 
                         </h2>

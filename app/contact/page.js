@@ -30,15 +30,15 @@ export default function Home() {
                                 <div className="content">
                                 <h3>Lets Talk us</h3>
                                 <p>
-                                    <a href="tel:+966 55 592 3198 
-">+966 55 592 3198 
+                                    <a href="tel:+966 13 363 3369 
+">+966 13 363 3369 
 </a>
                                 </p>
-                                <p>
+                                {/* <p>
                                     <a href="tel:+966 58 176 5070  
 ">+966 58 176 5070 
 </a>
-                                </p>
+                                </p> */}
                                 {/* <p>
                                     Fax: <a href="tel:123458963007">1234 -58963 - 007</a>
                                 </p> */}
@@ -50,10 +50,10 @@ export default function Home() {
                                 </div>
                                 <div className="content">
                                 <h3>Address</h3>
-                                <p> Ibn Al-Jawazi St. Makkah</p>
-                                <p> Al Mukarama Road,</p>
-                                <p> Industrial City 35514,</p>
-                                <p>Kingdom of Saudi Arabia</p>
+                                <p> DAHRAN TOWER, </p>
+                                <p> # 103,</p>
+                                <p> Custodian of the Two Holy Mosque Road</p>
+                                <p>Al-Khobar, Kingdom of Saudi Arabia</p>
 
                                 {/* <p>
                                 Ibn Al-Jawazi St. Makkah Al Mukarama Road,<br/>Al-Jubail Industrial City 35514,<br/> Kingdom of Saudi Arabia
@@ -67,8 +67,8 @@ export default function Home() {
                                 <div className="content">
                                 <h3>Send us email</h3>
                                 <p>
-                                    <a href="mailto:info@delcoarabia.com">
-                                    info@delcoarabia.com
+                                    <a href="mailto:info@alazharalarabia.com">
+                                   info@alazharalarabia.com
                                     </a>
                                 </p>
                                 
@@ -167,12 +167,15 @@ export default function Home() {
                    
                     {/*Google Map Start*/}
                     <section className="google-map-one google-map-two">
-                        <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21661.716746634596!2d49.632672743942685!3d27.006670138014503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e35a05e4e3e9251%3A0x37d923d58849172!2sAl%20Jubail%2035514%2C%20Saudi%20Arabia!5e1!3m2!1sen!2sin!4v1739431631517!5m2!1sen!2sin"
-                        className="google-map__one"
-                        allowFullScreen=""
-                        />
-                    </section>
+  <iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.1242914111117!2d50.20041049999999!3d26.3375746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e8b9b8e64ddb%3A0x302e4d362d595388!2sDhahran%20Tower%20Compound!5e1!3m2!1sen!2sin!4v1771921922896!5m2!1sen!2sin"
+    className="google-map__one"
+    style={{ border: 0 }}
+    allowFullScreen
+    loading="lazy"
+    referrerPolicy="no-referrer-when-downgrade"
+  />
+</section>
                     {/*Google Map End*/}
 
                     {/*CTA One Start*/}
@@ -203,12 +206,14 @@ export default function Home() {
                                 <div className="content">
                                 <p>Need help?</p>
                                 <h3>
-                                    <a href="tel:966 55 592 3198 
-">+966 55 592 3198 
+                                    <a href="tel: 966 13 363 3369
+ 
+"> +966 13 363 3369
+ 
 </a><br/>
-<a href="tel:966 58 176 5070  
+{/* <a href="tel:966 58 176 5070  
 ">+966 58 176 5070 
-</a>
+</a> */}
                                 </h3>
                                 </div>
                             </div>

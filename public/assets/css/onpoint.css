@@ -6144,7 +6144,8 @@ select.selectmenu.wide {
 .contact-two__btn {
   border: none;
   color: var(--onpoint-black);
-  background-color: var(--onpoint-primary);
+  /* background-color: var(--onpoint-primary); */
+  background-color: #8C5EF6;
 }
 
 .contact-two__btn>span {
@@ -6567,6 +6568,7 @@ select.selectmenu.wide {
 
 .sidebar__search-form button[type="submit"] {
   color: var(--onpoint-black);
+
   font-size: 16px;
   position: absolute;
   top: 0;
@@ -9628,3 +9630,14 @@ select.selectmenu.wide {
 
 
 @media only screen and (min-width: 1200px) and (max-width: 1470px) {}
+
+
+/* Force change contact page icons */
+
+.contact-one__contact-list .icon {
+  background-color: #8C5EF6 !important;   /* circle color */
+}
+
+.contact-one__contact-list .icon span {
+  color: #ffffff !important;              /* icon symbol color */
+}

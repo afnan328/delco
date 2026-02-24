@@ -69,7 +69,7 @@ export default function Form() {
                         <div className="col-xl-5">
                             <div className="contact-two__right">
                                 <div className="contact-two__img">
-                                    <img src="./assets/images/allimgs/contactpage/contact .webp" alt="Contact" />
+                                    <img src="./assets/images/allimgs/banner/Conatct Us (3).webp" alt="Contact" />
                                 </div>
                             </div>
                         </div>

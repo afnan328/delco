@@ -257,8 +257,14 @@ export default function Home() {
                         </div>
                         <h3 className="cta-one__title">
                             Need any help?
-                            <br /> contact us!
+                            <br /> contact us!<div
+  className="cta-one__bg-img"
+  style={{
+    backgroundImage: "url(\assets\images\allimgs\banner\Conatct Us (1).webp)"
+  }}
+/>
                         </h3>
+                        
                         <div className="cta-one__contact-box">
                             <div className="icon">
                             <span className="icon-phone" />

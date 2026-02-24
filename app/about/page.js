@@ -28,15 +28,17 @@ export default function Home() {
                                     <span className="section-title__tagline">About Us</span>
                                 </div>
                                 <h2 className="section-title__title">
-                              <span style={{color:'#F39F1B'}}> Delco Arabia: </span> Excellence in Industrial Trading & Contracting
+                              <span style={{color:'#F39F1B'}}> AL-AZHAR AL-ARABIA </span>   is an engineering and technology company in Saudi Arabia.
+
                                 </h2>
                                 </div>
                                 <p className="about-one__text">
-                                Since its inception in the year 2017, DELCO ARABIA has been involved in various OIL & GAS Construction, MEP and INFRASTRUCTURAL Projects. Over the decades DELCO ARABIA have built up a strong expertise in the specialist trading and contracting field of Industrial projects.
+                                We provide end-to-end, turnkey solutions covering the complete project lifecycle-starting from concept development, feasibility assessment, and design coordination, through engineering, procurement, installation, system integration, testing, and commissioning, and extending into long-term operations, maintenance, and lifecycle support.
+
 
                                 </p>
-                                <p className="about-one__text">Delco Arabia’s Trading Division specializes in high-quality Industrial Valves, Pipes, Fittings, Plumbing, Sanitary, and Safety Materials. We serve Oil & Gas, Marine, and Industrial projects with competitive pricing and a strong reputation. Our operations cover power plants, petrochemicals, refineries, chemicals, fertilizers, paper, cement, and sugar industries. Committed to superior quality and compliance, we ensure 100% customer satisfaction.
-</p>
+                                {/* <p className="about-one__text">Delco Arabia’s Trading Division specializes in high-quality Industrial Valves, Pipes, Fittings, Plumbing, Sanitary, and Safety Materials. We serve Oil & Gas, Marine, and Industrial projects with competitive pricing and a strong reputation. Our operations cover power plants, petrochemicals, refineries, chemicals, fertilizers, paper, cement, and sugar industries. Committed to superior quality and compliance, we ensure 100% customer satisfaction.
+</p> */}
                                 <div className="about-one__list-box">
                                 <div className="about-one__shape-1">
                                     <img src="assets/images/shapes/about-one-shape-1.png" alt="" />
@@ -85,12 +87,12 @@ export default function Home() {
                             >
                                 <div className="about-one__img-box">
                                 <div className="about-one__img-1">
-                                    <img src="./assets/images/allimgs/about page/About1.webp" alt="" />
+                                    <img src="./assets/images/allimgs/new/3. Image.webp" alt="" />
                                 </div>
                                 <div className="about-one__img-2">
-                                    <img src="./assets/images/allimgs/about page/About2.webp" alt="" />
+                                    <img src="./assets/images/allimgs/new/4. Image (1).webp" alt="" />
                                 </div>
-                                <div className="about-one__trusted-box">
+                                {/* <div className="about-one__trusted-box">
                                     <div className="about-one__trust-icon">
                                     <span className="icon-ionic-ios-people" />
                                     </div>
@@ -104,7 +106,7 @@ export default function Home() {
                                     </div>
                                     <p className="about-one__trust-text">Customer Satisfaction</p>
                                     </div>
-                                </div>
+                                </div> */}
                                 </div>
                             </div>
                             </div>
